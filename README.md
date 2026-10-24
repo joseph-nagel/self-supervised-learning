@@ -5,4 +5,4 @@ This repository provides a small playground for exploring **self-supervised lear
 
 ## Notebooks
 
-- [Introduction](notebooks/ssl.ipynb)
+- [Introduction](notebooks/introduction.ipynb)
