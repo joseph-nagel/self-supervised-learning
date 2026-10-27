@@ -1,8 +1,8 @@
 # Self-supervised learning
 
-This repository provides a small playground for exploring self-supervised learning techniques. At the moment, we only focus on the masked autoencoder (MAE).
+This repository provides a small playground for exploring **self-supervised learning** (SSL). At the moment, we only focus on the **masked autoencoder** (MAE) and **self-distillation with no labels** (DINO).
 
 
 ## Notebooks
 
-- [Masked autoencoder](notebooks/mae.ipynb)
+- [Introduction](notebooks/introduction.ipynb)
